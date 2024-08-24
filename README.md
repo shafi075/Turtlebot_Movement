@@ -36,7 +36,7 @@ https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/
 2. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/turtlebot_pid_navigation.git
+    git clone https://https://github.com/shafi075/Turtlebot_Movement.git
     ```
 
 3. Build the workspace:
