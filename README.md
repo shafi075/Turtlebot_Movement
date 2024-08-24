@@ -21,7 +21,7 @@ Before running the project, ensure that you have the following installed:
 - ROS (tested on ROS Noetic)
 - Gazebo
 - TurtleBot3 packages
-#### For installing turtlebot visit the following website: 
+#### For installing turtlebot3 visit the following website: 
 https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/
 
 ## Setting Up the Workspace
